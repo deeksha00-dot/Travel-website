@@ -1,2 +1,2 @@
 # Travel-website
-This is a simple and responsive travel website built using HTML and CSS. The website showcases various travel destinations, promotional offers, and a basic layout suitable for a travel agency or blog. It's designed to be visually appealing and user-friendly, with smooth navigation and clean styling.
+This is a responsive and visually appealing travel website built using HTML and CSS. It showcases beautiful travel destinations, highlights key features, and includes sections like About, Contact, and a call-to-action hero banner. Ideal for travel agencies, bloggers, or as a frontend project for web development learners. 
